@@ -1,12 +1,13 @@
-.App {
-  max-width: 1000px;
-  margin: 0 auto;
-}
 body {
   background: #ddeedf;
+  color: #364437;
 }
 a {
   color: #5c715e;
+}
+.App {
+  max-width: 1000px;
+  margin: 0 auto;
 }
 .App-header {
   font-size: 64px;
@@ -16,4 +17,8 @@ a {
 .App-footer {
   text-align: center;
   margin: 30px 0;
+}
+.App-footer a:hover {
+  color: #5c715e;
+  text-decoration: none;
 }
