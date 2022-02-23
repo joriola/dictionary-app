@@ -1,9 +1,9 @@
 body {
   background: #ddeedf;
-  color: #364437;
+  color: #4c5e4d;
 }
 a {
-  color: #5c715e;
+  color: #4c5e4d;
 }
 .App {
   max-width: 1000px;
@@ -19,6 +19,6 @@ a {
   margin: 30px 0;
 }
 .App-footer a:hover {
-  color: #5c715e;
+  color: #4c5e4d;
   text-decoration: none;
 }
